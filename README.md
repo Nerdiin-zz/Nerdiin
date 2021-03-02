@@ -9,5 +9,5 @@ Hello, World!
 iniciante em busca de evoluir minhas habilidades 
 
 
-🇺🇲-Hello, my name is mateus and I am a beginner programmer
+🇺🇲-Hello, my name is mateus (matthew in english) and I am a beginner programmer
  looking to evolve my skills
