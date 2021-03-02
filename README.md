@@ -5,9 +5,9 @@
 Hello, World!
 
 
-🇧🇷-Olá, meu nome é mateus e sou um programador 
+🇧🇷-Olá, meu nome é mateus tenho 14 anos e sou um programador 
 iniciante em busca de evoluir minhas habilidades 
 
 
-🇺🇲-Hello, my name is mateus (matthew in english) and I am a beginner programmer
+🇺🇲-Hello, my name is mateus (matthew in english)I'm 14 and I am a beginner programmer
  looking to evolve my skills
