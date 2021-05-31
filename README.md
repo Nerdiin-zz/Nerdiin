@@ -13,4 +13,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nerdiin&&show_icons=true&&hide_border=true&&theme=radical" /><br>
 
- <center>😎𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙋𝙮𝙩𝙝𝙤𝙣 & 𝙅𝙖𝙫𝙖 𝙎𝙘𝙧𝙞𝙥𝙩 & 𝙃𝙏𝙈𝙇 & 𝘾𝙨𝙨 & 𝙅𝙖𝙫𝙖 & 𝙋𝙃𝙋 & 𝙎𝙌𝙇 & 😱🥵🔥<center>
+ 
