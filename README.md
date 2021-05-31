@@ -12,12 +12,5 @@
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/nerdiin)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nerdiin&&show_icons=true&&hide_border=true&&theme=radical" /><br>
-Hello, World!
 
-
-🇧🇷-Olá, meu nome é mateus tenho 14 anos e sou um programador 
-iniciante em busca de evoluir minhas habilidades 
-
-
-🇺🇲-Hello, my name is mateus (matthew in english)I'm 14 and I am a beginner programmer
- looking to evolve my skills
+ <center>😎𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙋𝙮𝙩𝙝𝙤𝙣 & 𝙅𝙖𝙫𝙖 𝙎𝙘𝙧𝙞𝙥𝙩 & 𝙃𝙏𝙈𝙇 & 𝘾𝙨𝙨 & 𝙅𝙖𝙫𝙖 & 𝙋𝙃𝙋 & 𝙎𝙌𝙇 & 😱🥵🔥<center>
