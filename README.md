@@ -1,5 +1,5 @@
 
-![](name-of-giphy.gif)
+![](giphy.gif)
 
 
 
