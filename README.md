@@ -16,8 +16,7 @@
 <b>Hobbys:</b> Fazer Nada E de vez em quando Programar 😁
 </li>
 <br>
-<p><b>     Se leu isso até o Final agora Você é da  <br>
-                  Tropa do Nerdiin👍🙏🐒🐒🐒</b>
+
 
 
 
@@ -27,11 +26,19 @@
 Me Chame Clicando Nessas Badges Abaixo Caro amigo🙏
 </li>
 
+👇👇👇👇👇👇
+
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nerdiin1)](https://twitter.com/nerdiin1)
 
 
 
+
+
+
+
+<p><b>     Se leu isso até o Final agora Você é da  <br>
+                  Tropa do Nerdiin👍🙏🐒🐒🐒</b>
 
 
 
