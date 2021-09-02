@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Sobre Mim </h2>
+<h2 align="center">🐒Sobre Mim🐒 </h2>
 <img height=150 src="1630601275715.png" align="right">
 <li>
 <b>Nome:</b> Mateus </li>
@@ -20,7 +20,7 @@
 
 
 
-## Contato 
+## 📱 Contato 📱
 
 <li>
 Me Chame Clicando Nessas Badges Abaixo Caro amigo🙏
@@ -34,6 +34,16 @@ Me Chame Clicando Nessas Badges Abaixo Caro amigo🙏
 
 
 
+# ✨Creditos✨
+<center>
+
+Peguei "EMPRESTADO" os Readmes De:
+
+<center>
+
+<a href="https://github.com/PrincessAkira/PrincessAkira"> PrincessAkira </a> - Pela Parte do Sobre Mim
+
+De Resto Eu Mesmo Fiz 👍👍🥵
 
 
 
