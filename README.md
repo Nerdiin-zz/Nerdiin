@@ -4,7 +4,7 @@
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/nerdiin)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Nerdiin&show_icons=true)
 
-<img src= IMG_20210530_183015.png>
+<img src=   "1630601275715.png">
 
 
 
