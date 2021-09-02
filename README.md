@@ -1,7 +1,7 @@
 
 
 <h2 align="center">Sobre Mim </h2>
-<img height=160 src="1630601275715.png" align="right">
+<img height=150 src="1630601275715.png" align="right">
 <li>
 <b>Nome:</b> Mateus </li>
 <li>
