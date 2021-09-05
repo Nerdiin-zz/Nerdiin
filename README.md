@@ -32,6 +32,14 @@ Me Chame Clicando Nessas Badges Abaixo Caro amigo🙏
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nerdiin1)](https://twitter.com/nerdiin1)
 
 
+## 💻GitHub Stats💻
+
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Nerdiin&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerdiin&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
 
 
 # ✨Creditos✨
@@ -42,6 +50,7 @@ Peguei "EMPRESTADO" os Readmes De:
 <center>
 
 <a href="https://github.com/PrincessAkira/PrincessAkira"> PrincessAkira </a> - Pela Parte do Sobre Mim
+<a href="https://github.com/PluckyPrecious"> PluckyPrecious</a> - Github Stats
 
 De Resto Eu Mesmo Fiz 👍👍🥵
 
