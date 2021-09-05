@@ -29,8 +29,8 @@ Me Chame Clicando Nessas Badges Abaixo Caro amigo🙏
 👇👇👇👇👇👇
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nerdiin)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://bit.ly/Nerdiin)
+[![Telegram](https://img.shields.io/badge/Nerdiin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nerdiin)
+[![Twitter](https://img.shields.io/badge/nerdiin1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nerdiin1)
 
 ## 💻GitHub Stats💻
 
