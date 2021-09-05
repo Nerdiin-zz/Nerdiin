@@ -29,7 +29,7 @@ Me Chame Clicando Nessas Badges Abaixo Caro amigo🙏
 👇👇👇👇👇👇
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nerdiin1)](https://twitter.com/nerdiin1)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nerdiin)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://bit.ly/Nerdiin)
 
 ## 💻GitHub Stats💻
