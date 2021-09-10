@@ -1,19 +1,19 @@
 
 
-<h2 align="center">🐒Sobre Mim🐒 </h2>
+<h2 align="center">  ⚡About me⚡ </h2>
 <img height=150 src="1630601275715.png" align="right">
 <li>
-<b>Nome:</b> Mateus </li>
+<b>Name:</b> Mateus </li>
 <li>
-<b>Vulgo:</b> Nerdiin 😎
+<b>Country :</b> 🇧🇷Brazil🇧🇷
 </li>
 
 
 <li>
-<b>Genero:</b> Masculino
+<b>Gender:</b> Male
 </li>
 <li>
-<b>Hobbys:</b> Fazer Nada E de vez em quando Programar 😁
+<b>Hobbys:</b> Find Things About Programming and Imagine Projects
 </li>
 <br>
 
@@ -23,7 +23,7 @@
 ## 📱 Contato 📱
 
 <li>
-Me Chame Clicando Nessas Badges Abaixo Caro amigo🙏
+Call Me By Clicking These Badges Below
 </li>
 
 👇👇👇👇👇👇
@@ -41,23 +41,6 @@ Me Chame Clicando Nessas Badges Abaixo Caro amigo🙏
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerdiin&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 
-
-# ✨Creditos✨
-<center>
-
-Peguei "EMPRESTADO" os Readmes De:
-
-<center>
-
-<a href="https://github.com/PrincessAkira/PrincessAkira"> PrincessAkira </a> - Pela Parte do Sobre Mim
-<a href="https://github.com/PluckyPrecious"> PluckyPrecious</a> - Github Stats
-
-De Resto Eu Mesmo Fiz 👍👍🥵
-
-
-
-<p><b>     Se leu isso até o Final agora Você é da  <br>
-                  Tropa do Nerdiin👍🙏🐒🐒🐒</b>
 
 
 
