@@ -20,7 +20,7 @@
 
 
 
-## 📱 Contato 📱
+## 📱 Contact 📱
 
 <li>
 Call Me By Clicking These Badges Below
