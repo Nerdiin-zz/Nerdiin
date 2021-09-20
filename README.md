@@ -3,7 +3,7 @@
 <h2 align="center">  ⚡About me⚡ </h2>
 <img height=150 src="1630601275715.png" align="right">
 <li>
-<b>Name:</b> Mateus </li>
+<b>Name:</b> Matthew </li>
 <li>
 <b>Country :</b> 🇧🇷Brazil🇧🇷
 </li>
